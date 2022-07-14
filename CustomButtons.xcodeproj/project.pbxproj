@@ -13,6 +13,8 @@
 		BD1ABC20287FE6440053365A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BD1ABC1E287FE6440053365A /* Main.storyboard */; };
 		BD1ABC22287FE6450053365A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BD1ABC21287FE6450053365A /* Assets.xcassets */; };
 		BD1ABC25287FE6450053365A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BD1ABC23287FE6450053365A /* LaunchScreen.storyboard */; };
+		BD1ABC2D287FE7020053365A /* TwoLinedButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD1ABC2C287FE7020053365A /* TwoLinedButton.swift */; };
+		BD1ABC2F287FE72E0053365A /* IconTwoButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD1ABC2E287FE72E0053365A /* IconTwoButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		BD1ABC21287FE6450053365A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BD1ABC24287FE6450053365A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BD1ABC26287FE6450053365A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BD1ABC2C287FE7020053365A /* TwoLinedButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TwoLinedButton.swift; sourceTree = "<group>"; };
+		BD1ABC2E287FE72E0053365A /* IconTwoButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IconTwoButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +63,8 @@
 				BD1ABC18287FE6440053365A /* AppDelegate.swift */,
 				BD1ABC1A287FE6440053365A /* SceneDelegate.swift */,
 				BD1ABC1C287FE6440053365A /* ViewController.swift */,
+				BD1ABC2C287FE7020053365A /* TwoLinedButton.swift */,
+				BD1ABC2E287FE72E0053365A /* IconTwoButton.swift */,
 				BD1ABC1E287FE6440053365A /* Main.storyboard */,
 				BD1ABC21287FE6450053365A /* Assets.xcassets */,
 				BD1ABC23287FE6450053365A /* LaunchScreen.storyboard */,
@@ -139,7 +145,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				BD1ABC1D287FE6440053365A /* ViewController.swift in Sources */,
+				BD1ABC2D287FE7020053365A /* TwoLinedButton.swift in Sources */,
 				BD1ABC19287FE6440053365A /* AppDelegate.swift in Sources */,
+				BD1ABC2F287FE72E0053365A /* IconTwoButton.swift in Sources */,
 				BD1ABC1B287FE6440053365A /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
